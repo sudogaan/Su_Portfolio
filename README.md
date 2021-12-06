@@ -24,3 +24,14 @@ Data Science Portfolio
 # [Project 5: Page Visits Funnel: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/Page%20Visits%20Funnel%20Project)
 * Analyzed the data coming from Cool T-Shirts Inc. by building a funnel which is a description of how many people continue to the next step of a multi-step process.
 * Created tables to determine the relation between checkouts and purchases by using Pandas with python.
+
+
+# [Project 6: Basta Fazoolin': Project Overview](https://github.com/sudogaan/Computer-Science-Career-Path/blob/main/Basta%20Fazoolin'%20Project)
+* Analyzed and organized data coming from Basta Fazoolin by using python.
+* Created classes for the manipulation of data.
+
+
+# [Project 7: Thread Shed: Project Overview](https://github.com/sudogaan/Computer-Science-Career-Path/blob/main/Thread%20Shed%20Project)
+* Analyzed and cleared each transaction of data coming from Thread Shed shop using python.
+
+
