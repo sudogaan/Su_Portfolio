@@ -19,3 +19,8 @@ Data Science Portfolio
 # [Project 4: FoodWheel Company: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/FoodWheel%20Project)
 * Analyzed the data of FoodWheel Company taken from Kaggle.
 * Created tables, pie charts, bar charts, histograms by using Matplotlib, and Pandas with python.
+
+
+# [Project 5: Page Visits Funnel: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/Page%20Visits%20Funnel%20Project)
+* Analyzed the data coming from Cool T-Shirts Inc. by building a funnel which is a description of how many people continue to the next step of a multi-step process.
+* Created tables to determine the relation between checkouts and purchases by using Pandas with python.
