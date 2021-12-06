@@ -9,3 +9,8 @@ Data Science Portfolio
 # [Project 2: Medical Insurance: Project Overview](https://github.com/sudogaan/Data-Science-Career-Path/blob/main/Medical%20Insurance%20Project)
 * Retrieved a medical insurance data from Kaggle.
 * Analyzed and manipulated the data to find the male/female percentage, average age, and average charge for people who smoke and who do not smoke within that dataset by using python.
+
+
+# [Project 3: Biodiversity: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/Biodiversity%20Project)
+* Analyzed and manipulated data on the conservation statuses of species at National Park Service and to investigate if there are any patterns or themes to the types of species that become endangered.
+* Created tables, plotted bar charts, and determined the sample size by using Numpy, Pandas, Matplotlib, and Chi Squared Test in python.
