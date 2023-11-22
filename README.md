@@ -31,15 +31,3 @@
 (https://github.com/sudogaan/Data_Analysis_Projects/blob/main/World_Happiness_Report.ipynb)
 * Analyzed the Kaggle Dataset of World Happiness Report made in 5 different years by using Python.
 * Created charts and distributions to find the happiest countries each year and to determine the impacts of other factors in the happiness score of different countries by using Pandas, Numpy and Matplotlib.
-
-
-### Hurricane Analysis | Python
-* Analyzed and manipulated Category 5 Hurricanes data to determine the strongest hurricanes as rated by their wind speed and the damage they caused based on US dollars.
-* Created dictionaries to find the most affected area, max mortality and greatest damage by using Python.
-
-
-
-
-
-
-
