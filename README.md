@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R
+#### Technical Skills: Python, R
 
 ## Education					       		
 * M.Sc., Data Science	| The University of Padova  			        		
