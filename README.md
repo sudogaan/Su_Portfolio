@@ -1,47 +1,41 @@
-# Su_Portfolio
-Data Science Portfolio
+# Data Scientist
 
-# [Project 1: World Happiness Report Data Analysis](https://github.com/sudogaan/Data_Analysis_Projects/blob/main/World_Happiness_Report.ipynb)
+#### Technical Skills: Python, SQL, R
+
+## Education					       		
+- M.Sc., Data Science	| The University of Padova  			        		
+- B.Sc., Molecular Biology and Genetics | Istanbul Technical University (_June 2022_)
+
+## Work Experience
+**Data Architect Intern @ AKBANK (_July 2022 - September 2022_)**
+- Supported Akbank Turkish Text Normalization with Zemberek (Python implementation of Natural Language Processing library for the Turkish language).
+- Performed the Spellchecker Lexicon Cleaning by using the Python Pandas library.
+- Studied machine learning and deep learning concepts.
+
+**Neuro-Oncology Laboratory Intern @ Bahcesehir University (_June 2021 - September 2021_)**
+- Examined bacterial transformation, transfection, and transduction in diverse groups of bacterial cell cultures.
+- Implemented DNA and RNA extraction from pituitary gland cancer tissue.
+- Executed Polymerase Chain Reaction (PCR) for genotyping and phenotyping transgenic mice. Observed Quantitative PCR, Agarose Gel Electrophoresis, and Western Blotting.
+- Researched Cuprizone as a model for mimicking Multiple Sclerosis (MS).
+
+## Projects
+
+## House Price Prediction Analysis | Advanced Regression Techniques | R
+(https://github.com/sudogaan/House-Price-Prediction-Analysis-with-R/blob/main/House-Price-Prediction-Report.pdf)
+* Explored dataset, conducted ANOVA analysis, and examined the correlation matrix to identify significant predictors influencing sale prices.
+* Used backward model selection technique to identify influential variables for prediction and iteratively refined models to identify the best performing one.
+* Utilized the trained model to predict house prices on a test dataset.
+* Conclusions drawn from the analysis offer valuable insights for understanding and estimating house prices based on the dataset.
+
+### World Happiness Report Data Analysis | Python
+(https://github.com/sudogaan/Data_Analysis_Projects/blob/main/World_Happiness_Report.ipynb)
 * Analyzed the Kaggle Dataset of World Happiness Report made in 5 different years by using Python.
 * Created charts and distributions to find the happiest countries each year and to determine the impacts of other factors in the happiness score of different countries by using Pandas, Numpy and Matplotlib.
 
 
-# [Project 2: Hurricane Analysis: Project Overview](https://github.com/sudogaan/Data-Science-Career-Path/blob/main/Hurricane%20Analysis%20Project)
+### Hurricane Analysis | Python
 * Analyzed and manipulated Category 5 Hurricanes data to determine the strongest hurricanes as rated by their wind speed and the damage they caused based on US dollars.
 * Created dictionaries to find the most affected area, max mortality and greatest damage by using Python.
-
-
-# [Project 3: Medical Insurance: Project Overview](https://github.com/sudogaan/Data-Science-Career-Path/blob/main/Medical%20Insurance%20Project)
-* Retrieved a medical insurance data from Kaggle.
-* Analyzed and manipulated the data to find the male/female percentage, average age, and average charge for people who smoke and who do not smoke within that dataset by using Python.
-
-
-# [Project 4: Biodiversity: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/Biodiversity%20Project)
-* Analyzed and manipulated data on the conservation statuses of species at National Park Service and to investigate if there are any patterns or themes to the types of species that become endangered.
-* Created tables, plotted bar charts, and determined the sample size by using Numpy, Pandas, Matplotlib, and Chi Squared Test in Python.
-
-
-# [Project 5: FoodWheel Company: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/FoodWheel%20Project)
-* Analyzed the data of FoodWheel Company taken from Kaggle.
-* Created tables, pie charts, bar charts, histograms by using Matplotlib, and Pandas with Python.
-
-
-# [Project 6: Page Visits Funnel: Project Overview](https://github.com/sudogaan/Analyze-Data-with-Python-Skill-Path/blob/main/Page%20Visits%20Funnel%20Project)
-* Analyzed the data coming from Cool T-Shirts Inc. by building a funnel which is a description of how many people continue to the next step of a multi-step process.
-* Created tables to determine the relation between checkouts and purchases by using Pandas with Python.
-
-
-# [Project 7: Basta Fazoolin': Project Overview](https://github.com/sudogaan/Computer-Science-Career-Path/blob/main/Basta%20Fazoolin'%20Project)
-* Analyzed and organized data coming from Basta Fazoolin by using Python.
-* Created classes for the manipulation of data.
-
-
-# [Project 8: The Boredless Tourist: Project Overview](https://github.com/sudogaan/Computer-Science-Career-Path/blob/main/The%20Boredless%20Tourist)
-* Created a simple recommendation engine using Python to evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that I think they’ll be engaged by.
-
-
-# [Project 9: Thread Shed: Project Overview](https://github.com/sudogaan/Computer-Science-Career-Path/blob/main/Thread%20Shed%20Project)
-* Analyzed and cleared each transaction of data coming from Thread Shed shop using Python.
 
 
 
