@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R
 
 ## Education					       		
-- M.Sc., Data Science	| The University of Padova
-- B.Sc., Molecular Biology and Genetics | Istanbul Technical University (_June 2022_)
+- M.Sc. in Data Science	| The University of Padova
+- B.Sc. in Molecular Biology and Genetics | Istanbul Technical University (_June 2022_) | Graduation GPA: 3.04 / 4
 
 ## Work Experience
 **Data Architect Intern @ AKBANK (_July 2022 - September 2022_)**
