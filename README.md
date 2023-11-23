@@ -20,18 +20,18 @@
 
 ## Projects
 
-### House Price Prediction Analysis | Advanced Regression Techniques | R
+**House Price Prediction Analysis | Advanced Regression Techniques | R
 [https://github.com/sudogaan/House-Price-Prediction-Analysis-with-R/blob/main/House-Price-Prediction-Report.pdf]
-* Explored dataset, conducted ANOVA analysis, and examined the correlation matrix to identify significant predictors influencing sale prices.
-* Used backward model selection technique to identify influential variables for prediction and iteratively refined models to identify the best performing one.
-* Utilized the trained model to predict house prices on a test dataset.
-* Conclusions drawn from the analysis offer valuable insights for understanding and estimating house prices based on the dataset.
+- Explored dataset, conducted ANOVA analysis, and examined the correlation matrix to identify significant predictors influencing sale prices.
+- Used backward model selection technique to identify influential variables for prediction and iteratively refined models to identify the best performing one.
+- Utilized the trained model to predict house prices on a test dataset.
+- Conclusions drawn from the analysis offer valuable insights for understanding and estimating house prices based on the dataset.
 
-### World Happiness Report Data Analysis | Python
+**World Happiness Report Data Analysis | Python
 [https://github.com/sudogaan/Data_Analysis_Projects/blob/main/World_Happiness_Report.ipynb]
-* Analyzed the Kaggle Dataset of World Happiness Report made in 5 different years by using Python.
-* Created charts and distributions to find the happiest countries each year and to determine the impacts of other factors in the happiness score of different countries by using Pandas, Numpy and Matplotlib.
+- Analyzed the Kaggle Dataset of World Happiness Report made in 5 different years by using Python.
+- Created charts and distributions to find the happiest countries each year and to determine the impacts of other factors in the happiness score of different countries by using Pandas, Numpy and Matplotlib.
 
 
-## To reach my linkedin profile:
+** To reach my linkedin profile:
 [https://www.linkedin.com/in/sudogan/]
