@@ -7,6 +7,14 @@
 - B.Sc. in Molecular Biology and Genetics | Istanbul Technical University (_June 2022_) | Graduation GPA: 3.04 / 4
 
 ## Work Experience
+**ESG Fund & Benchmarking Data Analyst Intern @ Generali Asset Management (_June 2024 - December 2024_)** 
+- Assisted the team in defining and regularly updating an ESG rating methodology, ESG databases, and ESG rating and data monitoring.
+- Analyzed global companies on their environmental, social, and governance (ESG) performance, including the management of their respective ESG risks and opportunities.
+- Collaborated across various GIAM functions, such as portfolio officers, sales, and marketing, to expand the company's business and serve as an ESG representative with clients.
+- Helped monitor ESG market trends, greenwashing practices, and benchmarks.
+- Tracked and helped evaluating ESG strategies for 105 asset managers, encompassing a total of 550 funds.
+- Contributed to the development of a Python algorithm to aid the team in creating specific tools for elaborating ESG data.
+
 **Data Architect Intern @ AKBANK (_July 2022 - September 2022_)**
 - Supported Akbank Turkish Text Normalization with Zemberek (Python implementation of Natural Language Processing library for the Turkish language).
 - Performed the Spellchecker Lexicon Cleaning by using the Python Pandas library.
